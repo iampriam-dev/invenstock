@@ -1,0 +1,98 @@
+# 📦 Invenstock
+
+![Invenstock Logo](https://example.com/logo.png)
+
+## Description
+
+Welcome to **Invenstock**, an Inventory Management System built with **Next.js** that is still in early development. With Invenstock, you can efficiently manage your inventory in a sleek and user-friendly interface. This system is designed to streamline the process of tracking and managing your stock, making it an essential tool for businesses of all sizes.
+
+---
+
+## Features
+
+🔹 **CRUD Operations**: Perform Create, Read, Update, and Delete operations on your inventory items with ease.
+
+🔹 **Full-Stack Development**: Utilizes a full-stack architecture for efficient data handling and seamless user experience.
+
+🔹 **Next.js & React**: Built using Next.js and React to ensure high performance and interactivity.
+
+🔹 **Authentication with Next-Auth**: Secure your system with Next-Auth for reliable user authentication.
+
+🔹 **Prisma ORM**: Utilizes Prisma ORM to interact with the database and simplify data access.
+
+🔹 **Tailwind CSS**: Styling done with Tailwind CSS for a modern and responsive design.
+
+🔹 **TypeScript**: Written in TypeScript for enhanced code quality and maintainability.
+
+---
+
+## Installation
+
+To get started with **Invenstock**, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/invenstock.git
+   ```
+2. Install dependencies:
+   ```bash
+   cd invenstock
+   npm install
+   ```
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+---
+
+## Contributing
+
+We welcome contributions to enhance **Invenstock** and make it even better! To contribute, please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/improvement`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin feature/improvement`).
+6. Create a new Pull Request.
+
+---
+
+## Feedback
+
+We value your feedback on **Invenstock**. If you have any suggestions, ideas, or issues, feel free to [open an issue](https://github.com/username/invenstock/issues) on this repository. Your input is highly appreciated as we strive to make **Invenstock** the best it can be.
+
+---
+
+## Stay Updated
+
+Stay updated with the latest releases and updates for **Invenstock**. Visit the [Releases](https://github.com/username/invenstock/releases) section to see what's new and exciting in the world of inventory management.
+
+---
+
+## Download Now
+
+🚀 [Download v1.0.0 Zip](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) 🚀
+
+Launch the file to get started with **Invenstock**!
+
+---
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Support
+
+For any inquiries or support regarding **Invenstock**, please contact [support@invenstock.com](mailto:support@invenstock.com). Our team is here to assist you with any questions or concerns you may have.
+
+---
+
+Thank you for choosing **Invenstock** for your inventory management needs! 📊🚀📦
+
+---
+
+![Footer Image](https://example.com/footer.png)
